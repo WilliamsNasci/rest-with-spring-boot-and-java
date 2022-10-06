@@ -1,0 +1,17 @@
+package br.com.williams;
+
+public class Greeting {
+	
+	private final long id;
+	private final String content;
+	
+	public long getId() {
+		return id;
+	}
+	public String getContent() {
+		return content;
+	}
+	
+	
+
+}

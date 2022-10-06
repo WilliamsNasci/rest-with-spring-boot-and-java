@@ -1,0 +1,6 @@
+package br.com.williams;
+
+@RestController
+public class GreetingController {
+
+}

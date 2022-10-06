@@ -1,0 +1,75 @@
+2022-10-04 10:33:46,927 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-04 10:35:51,543 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-04 10:37:39,300 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-04 10:54:00,115 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.williams:rest-with-spring-boot-and-java:0.0.1-SNAPSHOT @ C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\pom.xml.
+2022-10-04 10:54:02,599 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rest-with-spring-boot-and-java/src/main/java
+2022-10-04 10:54:02,600 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rest-with-spring-boot-and-java/src/main/resources
+2022-10-04 10:54:02,627 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rest-with-spring-boot-and-java/src/main/resources
+2022-10-04 10:54:02,639 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rest-with-spring-boot-and-java/src/test/java
+2022-10-04 10:54:03,340 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2022-10-04 10:54:03,346 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-04 10:54:04,015 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.williams:rest-with-spring-boot-and-java:0.0.1-SNAPSHOT @ C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\pom.xml.
+2022-10-04 10:54:04,741 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rest-with-spring-boot-and-java/src/main/java
+2022-10-04 10:54:04,741 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rest-with-spring-boot-and-java/src/main/resources
+2022-10-04 10:54:04,742 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rest-with-spring-boot-and-java/src/main/resources
+2022-10-04 10:54:04,744 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rest-with-spring-boot-and-java/src/test/java
+2022-10-04 10:54:05,377 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-10-04 10:54:07,171 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-10-04 10:54:07,229 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 10:54:07,236 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\src\test\resources
+2022-10-04 10:57:17,062 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 10:57:17,062 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 10:57:17,066 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\src\test\resources
+2022-10-04 10:57:57,730 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-10-04 10:57:57,733 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 10:57:57,737 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\src\test\resources
+2022-10-04 10:58:11,197 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-04 10:58:11,618 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.williams:rest-with-spring-boot-and-java:0.0.1-SNAPSHOT @ C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\pom.xml.
+2022-10-04 10:58:12,130 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rest-with-spring-boot-and-java/src/main/java
+2022-10-04 10:58:12,130 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rest-with-spring-boot-and-java/src/main/resources
+2022-10-04 10:58:12,131 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rest-with-spring-boot-and-java/src/main/resources
+2022-10-04 10:58:12,132 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rest-with-spring-boot-and-java/src/test/java
+2022-10-04 10:58:12,496 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-10-04 10:58:12,628 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-10-04 10:58:12,649 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 10:58:12,654 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\src\test\resources
+2022-10-04 10:59:25,285 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 10:59:25,286 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 10:59:25,291 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\src\test\resources
+2022-10-04 10:59:33,505 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-10-04 10:59:33,508 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 10:59:33,513 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\src\test\resources
+2022-10-04 11:00:44,839 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-10-04 11:00:44,844 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 11:00:44,848 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\src\test\resources
+2022-10-04 11:01:16,268 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-10-04 11:01:16,272 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 11:01:16,277 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\src\test\resources
+2022-10-04 11:01:53,448 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.williams:rest-with-spring-boot-and-java:0.0.1-SNAPSHOT @ C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\pom.xml.
+2022-10-04 11:01:54,086 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 11:01:54,087 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 11:01:54,092 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\src\test\resources
+2022-10-04 11:01:55,566 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-10-04 11:01:55,587 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 11:01:55,591 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\src\test\resources
+2022-10-04 11:02:14,605 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-10-04 11:02:14,608 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 11:02:14,612 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\src\test\resources
+2022-10-04 11:33:18,551 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-10-04 11:33:18,569 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 11:33:18,574 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\src\test\resources
+2022-10-04 11:34:44,042 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-10-04 11:34:44,050 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 11:34:44,055 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\src\test\resources
+2022-10-04 11:34:47,795 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-10-04 11:34:47,802 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 11:34:47,807 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\src\test\resources
+2022-10-04 11:35:12,307 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-10-04 11:35:12,329 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 11:35:12,335 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\src\test\resources
+2022-10-04 11:35:22,720 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-10-04 11:35:22,738 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 11:35:22,743 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\src\test\resources
+2022-10-04 11:37:56,032 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-10-04 11:37:56,072 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-10-04 11:37:56,079 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Di2Win\Desktop\Study\rest-with-spring-boot-and-java\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java\src\test\resources

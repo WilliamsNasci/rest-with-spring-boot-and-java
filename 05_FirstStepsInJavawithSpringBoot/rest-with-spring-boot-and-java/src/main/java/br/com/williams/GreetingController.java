@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class GreetingController {
 
-    // Estancia das variaveis e templateString para mudar o output apartir da queryString passada na requisicao
+    // Estancia das variaveis e templateString para mudar o output apartir do queryParam passada na requisicao
     private static final String template = "Hello, %s!";
     private static final AtomicLong counter = new AtomicLong();
     
