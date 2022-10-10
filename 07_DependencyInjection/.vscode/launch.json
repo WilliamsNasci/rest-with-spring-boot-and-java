@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RestWithSpringBootAndJavaApplication<rest-with-spring-boot-and-java>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.williams.RestWithSpringBootAndJavaApplication",
+            "projectName": "rest-with-spring-boot-and-java",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
